@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Chouavue/weatherreactapp.git/static/css/main.b15b8082.css",
-    "main.js": "/Chouavue/weatherreactapp.git/static/js/main.c14b3a91.js",
-    "static/media/Videos.mp4": "/Chouavue/weatherreactapp.git/static/media/Videos.204282fce0a2ae1b1041.mp4",
-    "index.html": "/Chouavue/weatherreactapp.git/index.html",
-    "main.b15b8082.css.map": "/Chouavue/weatherreactapp.git/static/css/main.b15b8082.css.map",
-    "main.c14b3a91.js.map": "/Chouavue/weatherreactapp.git/static/js/main.c14b3a91.js.map"
+    "main.css": "/weatherreactapp/static/css/main.b15b8082.css",
+    "main.js": "/weatherreactapp/static/js/main.2e56b127.js",
+    "static/media/Videos.mp4": "/weatherreactapp/static/media/Videos.204282fce0a2ae1b1041.mp4",
+    "index.html": "/weatherreactapp/index.html",
+    "main.b15b8082.css.map": "/weatherreactapp/static/css/main.b15b8082.css.map",
+    "main.2e56b127.js.map": "/weatherreactapp/static/js/main.2e56b127.js.map"
   },
   "entrypoints": [
     "static/css/main.b15b8082.css",
-    "static/js/main.c14b3a91.js"
+    "static/js/main.2e56b127.js"
   ]
 }
